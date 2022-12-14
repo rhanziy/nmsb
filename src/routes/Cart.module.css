@@ -1,0 +1,30 @@
+
+
+
+
+.con {
+    padding:30px 50px 100px;
+
+}
+.arrow {
+    margin:0 15px
+}
+
+.total { text-align: right; }
+
+.button {
+    float:right;
+    width: 150px; height:40px;
+    background-color:rgb(1, 133, 150);
+    color:white;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    transition:all 0.5s;
+}
+
+.button:hover {
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    border: 1px solid black;
+}
